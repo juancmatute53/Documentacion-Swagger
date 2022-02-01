@@ -1,6 +1,5 @@
 package com.example.swaggerfinal.service;
 
-import com.example.swaggerfinal.entity.Empleado;
 import com.example.swaggerfinal.entity.Productos;
 
 import java.util.List;
