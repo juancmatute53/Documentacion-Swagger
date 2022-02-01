@@ -2,9 +2,7 @@ package com.example.swaggerfinal.controllers;
 
 
 
-import com.example.swaggerfinal.entity.Empleado;
 import com.example.swaggerfinal.entity.Productos;
-import com.example.swaggerfinal.service.IEmpleadoService;
 import com.example.swaggerfinal.service.IProductosService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
